@@ -1,0 +1,25 @@
+body {
+    background-color: #222831;
+    color: #EEEEEE;
+}
+
+h2 {
+    color: #00ADB5;
+    font-size: 36px;
+    background: linear-gradient(270deg,#00acb523 5.19%,#00ADB5 49.99%,#00acb523 96.06%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+button {
+    border-radius: 10px;
+    border: 1px solid #00ADB5;
+    color:#00ADB5;
+    cursor: pointer;
+}
+
+button:hover {
+    color:#EEEEEE;
+    background-color: #00ADB5;
+}
